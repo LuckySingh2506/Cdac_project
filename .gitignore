@@ -1,4 +1,5 @@
 # Java / Spring Boot
+backend/src/main/resources/application.properties
 backend/target/
 backend/*.jar
 backend/*.war
