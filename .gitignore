@@ -1,0 +1,29 @@
+# Java / Spring Boot
+backend/target/
+backend/*.jar
+backend/*.war
+backend/*.ear
+backend/.mvn/wrapper/maven-wrapper.jar
+backend/.settings/
+backend/.project
+backend/.classpath
+backend/.factorypath
+
+# Node / React
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/*.local
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*.DS_Store
+
+# Misc
+*.log
+temp/
+tmp/
+bin/
